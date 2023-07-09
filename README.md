@@ -1,6 +1,6 @@
 ## Hello 👋
 
-👨🏽‍💻 I am learning more about data science and programming languages!
+I am learning more about data science and programming languages!
 
 🎯 My goal is to one day be able to work in this area and here you can see all my progress. 
 
@@ -9,7 +9,7 @@
 
 <details>
   
-<summary> 🐍 Python</summary>
+<summary> Python</summary>
 
 [CS50 Introduction to Programming with Python](https://github.com/richardnj14/CS50_Python)
 
@@ -19,7 +19,7 @@
 
 <details>
   
-<summary> 🐍 Python</summary>
+<summary> Python</summary>
 
 [CSTR dynamic model](https://github.com/richardnj14/CSTR-model)
 </details>
