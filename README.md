@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hello 👋
+
+👨🏽‍💻 I am learning more about data science and programming languages!
+
+🎯 My goal is to one day be able to work in this area and here you can see all my progress. 
+
+
+## Programming languages
+
 <details>
+  
 <summary> 🐍 Python</summary>
 
 [CS50 Introduction to Programming with Python](https://github.com/richardnj14/CS50_Python)
