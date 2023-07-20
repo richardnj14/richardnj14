@@ -22,7 +22,7 @@ You will find in [CS50 Repository](https://github.com/richardnj14/CS50_Python) s
 
 - [Loops](https://github.com/richardnj14/CS50_python/tree/main/loops)
 
-- Exceptions
+- [Exceptions](https://github.com/richardnj14/CS50_python/tree/main/exceptions)
 
 - Libraries
 
