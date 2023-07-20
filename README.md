@@ -7,7 +7,7 @@ I'm learning more about data science and programming languages!
 
 ## 📖 Learning
 
-### Python
+### 🐍 Python
 
 <details>
 <summary>CS50 Introduction to Programming with Python</summary>
