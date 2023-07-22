@@ -14,7 +14,7 @@ I'm learning more about data science and programming languages!
 
 [CS50P](https://cs50.harvard.edu/python/2022/) is an open course of Harvard University. 
 
-You will find in [CS50 Repository](https://github.com/richardnj14/CS50_Python) some of my learning projects organized by the following topics:
+You'll find on my [CS50 Repository](https://github.com/richardnj14/CS50_Python) some of my learning projects organized by the following topics:
 
 - [Functions and variables](https://github.com/richardnj14/CS50_python/tree/main/function_variables)
 
