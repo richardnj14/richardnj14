@@ -24,7 +24,7 @@ You'll find on my [CS50 Repository](https://github.com/richardnj14/CS50_Python) 
 
 - [Exceptions](https://github.com/richardnj14/CS50_python/tree/main/exceptions)
 
-- Libraries
+- [Libraries](https://github.com/richardnj14/CS50_python/tree/main/libraries)
 
 - Unit tests
 
