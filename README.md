@@ -22,7 +22,7 @@ I'm learning more about data science and programming languages!
   
 <summary> Python</summary>
 
-[Heads and tails cheater finder](https://github.com/richardnj14/CSTR-model](https://github.com/richardnj14/CS50_python/tree/main/final_project))
+[Heads and tails cheater finder](https://github.com/richardnj14/CS50_python/tree/main/final_project)
 </details>
 
 
